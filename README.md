@@ -1,0 +1,2 @@
+# CoureProject
+Discord bot
